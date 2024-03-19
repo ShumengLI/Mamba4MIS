@@ -1,4 +1,4 @@
-# Mamba for medical image segmentation (Mamba4MIS). 
+# Mamba for Medical Image Segmentation (Mamba4MIS). 
 
 ## About Mamba
 ![image](https://github.com/ShumengLI/Mamba4MIS/blob/main/selection.png)
