@@ -10,6 +10,7 @@
 
 Date|Title|The First and Last Authors|Code|Reference
 -|-|-|-|-
+2024-03-26|Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation|H. Tang and K. Wu|None|[Arxiv](https://arxiv.org/abs/2403.17701)
 2024-03-26|Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion|K. S. Sanjid and M. M. Uddin|None|[Arxiv](https://arxiv.org/abs/2403.17432)
 2024-03-20|ProMamba: Prompt-Mamba for polyp segmentation|J.Xie and G. Luo|None|[Arxiv](https://arxiv.org/abs/2403.13660)
 2024-03-20|H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation|R. Wu and Q. Chang|[Code](https://github.com/wurenkai/H-vmunet)|[Arxiv](https://arxiv.org/abs/2403.13642)
