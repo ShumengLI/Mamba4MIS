@@ -10,6 +10,7 @@
 
 Date|Title|The First and Last Authors|Code|Reference
 -|-|-|-|-
+2024-03-26|Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion|K. S. Sanjid and M. M. Uddin|None|[Arxiv](https://arxiv.org/abs/2403.17432)
 2024-03-20|ProMamba: Prompt-Mamba for polyp segmentation|J.Xie and G. Luo|None|[Arxiv](https://arxiv.org/abs/2403.13660)
 2024-03-20|H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation|R. Wu and Q. Chang|[Code](https://github.com/wurenkai/H-vmunet)|[Arxiv](https://arxiv.org/abs/2403.13642)
 2024-03-15|P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation|Z. Ye and L. Zhang|None|[Arxiv](https://arxiv.org/abs/2402.08506)
