@@ -10,6 +10,7 @@
 
 Date|Title|The First and Last Authors|Code|Reference
 -|-|-|-|-
+2024-04-11|ViM-UNet: Vision Mamba for Biomedical Segmentation|A. Archit and C. Pape|[Code](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)|[Arxiv](https://arxiv.org/abs/2404.07705)
 2024-04-01|T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation|J. Hao and K. F. Hung|[Code](https://github.com/isbrycee/T-Mamba)|[Arxiv](https://arxiv.org/abs/2404.01065)
 2024-03-29|UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation|R. Wu and Q. Chang|[Code](https://github.com/wurenkai/UltraLight-VM-UNet)|[Arxiv](https://arxiv.org/abs/2403.20035)
 2024-03-26|Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation|H. Tang and K. Wu|None|[Arxiv](https://arxiv.org/abs/2403.17701)
