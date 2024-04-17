@@ -40,6 +40,7 @@ Date|Title|The First and Last Authors|Code|Reference
 2024-04-15|FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba|X. Xie and Z. Yu|[Code](https://github.com/millieXie/FusionMamba)|[Arxiv](https://arxiv.org/abs/2404.09498)
 2024-04-12|MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion|Z. Li and F. Yu|None|[Arxiv](https://arxiv.org/abs/2404.08406)
 2024-04-11|Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos|S. Chaudhuri and S. Bhattacharya|None|[Arxiv](https://arxiv.org/abs/2404.07645)
+2024-04-07|VMambaMorph: a Multi-Modality Deformable Image Registration Framework based on Visual State Space Model with Cross-Scan Module|Z. Wang and T. Guo|[Code](https://github.com/ziyangwang007/VMambaMorph)|[Arxiv](https://arxiv.org/abs/2404.05105)
 2024-03-25|CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification|G. Yang and S. Wang|None|[Arxiv](https://arxiv.org/abs/2403.16520)
 2024-03-13|MD-Dose: A Diffusion Model based on the Mamba for Radiotherapy Dose Prediction|L. Fu and Y. Yao|[Code](https://github.com/LinjieFu-U/mamba_dose)|[Arxiv](https://arxiv.org/abs/2403.08479)
 2024-03-06|MedMamba: Vision Mamba for Medical Image Classification|Y. Yue and Z. Li|[Code](https://github.com/YubiaoYue/MedMamba)|[Arxiv](https://arxiv.org/abs/2403.03849)
