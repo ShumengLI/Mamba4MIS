@@ -43,6 +43,8 @@ Date|Title|The First and Last Authors|Code|Reference
 2024-04-07|VMambaMorph: a Multi-Modality Deformable Image Registration Framework based on Visual State Space Model with Cross-Scan Module|Z. Wang and T. Guo|[Code](https://github.com/ziyangwang007/VMambaMorph)|[Arxiv](https://arxiv.org/abs/2404.05105)
 2024-03-25|CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification|G. Yang and S. Wang|None|[Arxiv](https://arxiv.org/abs/2403.16520)
 2024-03-13|MD-Dose: A Diffusion Model based on the Mamba for Radiotherapy Dose Prediction|L. Fu and Y. Yao|[Code](https://github.com/LinjieFu-U/mamba_dose)|[Arxiv](https://arxiv.org/abs/2403.08479)
+2024-03-11|MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology|S. Yang and H. Chen|[Code](https://github.com/isyangshu/MambaMIL)|[Arxiv](https://arxiv.org/abs/2403.06800)
+2024-03-08|MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models|Z. Fang and Y. Zhang|None|[Arxiv](https://arxiv.org/abs/2403.05160)
 2024-03-06|MedMamba: Vision Mamba for Medical Image Classification|Y. Yue and Z. Li|[Code](https://github.com/YubiaoYue/MedMamba)|[Arxiv](https://arxiv.org/abs/2403.03849)
 2024-02-28|MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation|J. Huang and G. Yang|[Code](https://github.com/ayanglab/MambaMIR)|[Arxiv](https://arxiv.org/abs/2402.18451)
 2024-01-25|Vivim: a Video Vision Mamba for Medical Video Object Segmentation|Y. Yang and L. Zhu|[Code](https://github.com/scott-yjyang/Vivim)|[Arxiv](https://arxiv.org/abs/2401.14168)
