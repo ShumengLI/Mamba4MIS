@@ -46,6 +46,5 @@ Date|Title|The First and Last Authors|Code|Reference
 2024-02-28|MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation|J. Huang and G. Yang|[Code](https://github.com/ayanglab/MambaMIR)|[Arxiv](https://arxiv.org/abs/2402.18451)
 2024-01-25|Vivim: a Video Vision Mamba for Medical Video Object Segmentation|Y. Yang and L. Zhu|[Code](https://github.com/scott-yjyang/Vivim)|[Arxiv](https://arxiv.org/abs/2401.14168)
 2024-01-25|MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration|T. Guo and X. Bai|[Code](https://github.com/Guo-Stone/MambaMorph)|[Arxiv](https://arxiv.org/abs/2401.13934)
-2023-11-03|APRICOT-Mamba: Acuity Prediction in Intensive Care Unit (ICU): Development and Validation of a Stability, Transitions, and Life-Sustaining Therapies Prediction Model
-|M. Contreras and P. Rashidi|None|[Arxiv](https://arxiv.org/abs/2311.02026)
+2023-11-03|APRICOT-Mamba: Acuity Prediction in Intensive Care Unit (ICU): Development and Validation of a Stability, Transitions, and Life-Sustaining Therapies Prediction Model|M. Contreras and P. Rashidi|None|[Arxiv](https://arxiv.org/abs/2311.02026)
 
