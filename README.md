@@ -20,7 +20,7 @@ Date|Title|The First and Last Authors|Code|Reference
 2024-03-20|H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation|R. Wu and Q. Chang|[Code](https://github.com/wurenkai/H-vmunet)|[Arxiv](https://arxiv.org/abs/2403.13642)
 2024-03-14|VM-UNetV2: Rethinking Vision Mamba UNet for Medical Image Segmentation|M. Zhang and X. Tao|[Code](https://github.com/nobodyplayer1/VM-UNetV2)|[Arxiv](https://arxiv.org/abs/2403.09157)
 2024-03-12|Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention|J. Wang and J. Wu|[Code](https://github.com/wjh892521292/LMa-UNet)|[Arxiv](https://arxiv.org/abs/2403.07332)
-2024-03-11|LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation|W. Liao and L. Ma|[Code](https://github.com/MrBlankness/LightM-UNet)|[Arxiv](https://arxiv.org/abs/2403.05246)
+2024-03-08|LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation|W. Liao and L. Ma|[Code](https://github.com/MrBlankness/LightM-UNet)|[Arxiv](https://arxiv.org/abs/2403.05246)
 2024-02-28|MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation|J. Huang and G. Yang|[Code](https://github.com/ayanglab/MambaMIR)|[Arxiv](https://arxiv.org/abs/2402.18451v1)
 2024-02-16|Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation|Z. Wang and C. Ma|[Code](https://github.com/ziyangwang007/Mamba-UNet)|[Arxiv](https://arxiv.org/abs/2402.10887)
 2024-02-13|P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation|Z. Ye and L. Zhang|None|[Arxiv](https://arxiv.org/abs/2402.08506)
