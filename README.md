@@ -10,6 +10,10 @@
 
 Date|Title|The First and Last Authors|Code|Reference
 -|-|-|-|-
+2024-05-25|UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation|T. Y. Tsai and X. Wang|[Code](https://github.com/tiffany9056/UU-Mamba)|[Arxiv](https://arxiv.org/abs/2405.17496)
+2024-05-08|HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation|J. Xu|None|[Arxiv](https://arxiv.org/abs/2405.05007)
+2024-05-05|AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation|V. Nguyen and T. Tran|[Code](https://github.com/vietthanh2710/AC-MambaSeg)|[Arxiv](https://arxiv.org/abs/2405.03011)
+2024-04-26|Optimizing Universal Lesion Segmentation: State Space Model-Guided Hierarchical Networks with Feature Importance Adjustment|K. S. Sanjid and M. M. Uddin|None|[Arxiv](https://arxiv.org/abs/2404.17235)
 2024-04-15|nnU-Net Revisited: A Call for Rigorous Validation in 3D Medical Image Segmentation|F. Isensee and P. F. Jaeger|None|[Arxiv](https://arxiv.org/abs/2404.09556)
 2024-04-11|ViM-UNet: Vision Mamba for Biomedical Segmentation|A. Archit and C. Pape|[Code](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)|[Arxiv](https://arxiv.org/abs/2404.07705)
 2024-04-01|T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation|J. Hao and K. F. Hung|[Code](https://github.com/isbrycee/T-Mamba)|[Arxiv](https://arxiv.org/abs/2404.01065)
@@ -37,6 +41,11 @@ Date|Title|The First and Last Authors|Code|Reference
 
 Date|Title|The First and Last Authors|Code|Reference
 -|-|-|-|-
+2024-05-28|Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba|Z. Yang and P. Yan|[Code](https://github.com/RPIDIAL/BI-Mamba)|[Arxiv](https://arxiv.org/abs/2405.18533)
+2024-05-27|Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba|J. Huang and G. Yang|None|[Arxiv](https://arxiv.org/abs/2405.17659)
+2024-05-23|EHRMamba: Towards Generalizable and Scalable Foundation Models for Electronic Health Records|A. Fallahpour and A. Krishnan|[Code](https://github.com/VectorInstitute/odyssey)|[Arxiv](https://arxiv.org/abs/2405.14567)
+2024-05-22|I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling|O. F. Atli and T. Çukur|[Code](https://github.com/icon-lab/I2I-Mamba)|[Arxiv](https://arxiv.org/abs/2405.14022)
+2024-05-09|VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis|Z. Ju and W. Zhou|None|[Arxiv](https://arxiv.org/abs/2405.05667)
 2024-04-15|FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba|X. Xie and Z. Yu|[Code](https://github.com/millieXie/FusionMamba)|[Arxiv](https://arxiv.org/abs/2404.09498)
 2024-04-12|MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion|Z. Li and F. Yu|None|[Arxiv](https://arxiv.org/abs/2404.08406)
 2024-04-11|Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos|S. Chaudhuri and S. Bhattacharya|None|[Arxiv](https://arxiv.org/abs/2404.07645)
