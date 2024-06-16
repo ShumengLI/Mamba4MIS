@@ -10,10 +10,12 @@
 
 Date|Title|The First and Last Authors|Code|Reference
 -|-|-|-|-
+2024-06-10|MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba|Z. Ji|[Code](https://github.com/PixDeep/MHS-VM)|[Arxiv](https://arxiv.org/abs/2406.05786)
 2024-06-09|Convolution and Attention-Free Mamba-based Cardiac Image Segmentation|A. Khan and G. Slabaugh|None|[Arxiv](https://arxiv.org/abs/2406.05786)
 2024-06-09|Vision Mamba: Cutting-Edge Classification of Alzheimer's Disease with 3D MRI Scans|Muthukumar K A and P. Ranjan|None|[Arxiv](https://arxiv.org/abs/2406.05757)
 2024-06-05|Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis|M. Heidari and I. Hacihaliloglu|[Code](https://github.com/xmindflow/Awesome_mamba)|[Arxiv](https://arxiv.org/abs/2406.03430)
 2024-05-25|UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation|T. Y. Tsai and X. Wang|[Code](https://github.com/tiffany9056/UU-Mamba)|[Arxiv](https://arxiv.org/abs/2405.17496)
+2024-05-24|MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation|C. Yuan and S. S. Agaian|[Code](https://github.com/chunyuyuan/MUCM-Net)|[Arxiv](https://arxiv.org/abs/2405.15925)
 2024-05-08|HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation|J. Xu|None|[Arxiv](https://arxiv.org/abs/2405.05007)
 2024-05-05|AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation|V. Nguyen and T. Tran|[Code](https://github.com/vietthanh2710/AC-MambaSeg)|[Arxiv](https://arxiv.org/abs/2405.03011)
 2024-04-26|Optimizing Universal Lesion Segmentation: State Space Model-Guided Hierarchical Networks with Feature Importance Adjustment|K. S. Sanjid and M. M. Uddin|None|[Arxiv](https://arxiv.org/abs/2404.17235)
