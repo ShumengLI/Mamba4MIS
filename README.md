@@ -10,6 +10,9 @@
 
 Date|Title|The First and Last Authors|Code|Reference
 -|-|-|-|-
+2024-06-09|Convolution and Attention-Free Mamba-based Cardiac Image Segmentation|A. Khan and G. Slabaugh|None|[Arxiv](https://arxiv.org/abs/2406.05786)
+2024-06-09|Vision Mamba: Cutting-Edge Classification of Alzheimer's Disease with 3D MRI Scans|Muthukumar K A and P. Ranjan|None|[Arxiv](https://arxiv.org/abs/2406.05757)
+2024-06-05|Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis|M. Heidari and I. Hacihaliloglu|[Code](https://github.com/xmindflow/Awesome_mamba)|[Arxiv](https://arxiv.org/abs/2406.03430)
 2024-05-25|UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation|T. Y. Tsai and X. Wang|[Code](https://github.com/tiffany9056/UU-Mamba)|[Arxiv](https://arxiv.org/abs/2405.17496)
 2024-05-08|HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation|J. Xu|None|[Arxiv](https://arxiv.org/abs/2405.05007)
 2024-05-05|AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation|V. Nguyen and T. Tran|[Code](https://github.com/vietthanh2710/AC-MambaSeg)|[Arxiv](https://arxiv.org/abs/2405.03011)
@@ -41,6 +44,8 @@ Date|Title|The First and Last Authors|Code|Reference
 
 Date|Title|The First and Last Authors|Code|Reference
 -|-|-|-|-
+2024-06-12|On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models|H. S. Malik and F. S. Khan|[Code](https://github.com/HashmatShadab/Robustness-of-Volumetric-Medical-Segmentation-Models)|[Arxiv](https://arxiv.org/abs/2406.08486)
+2024-06-02|MGI: Multimodal Contrastive pre-training of Genomic and Medical Imaging|J. Zhou and Y. Jin|Code|[Arxiv](https://arxiv.org/abs/2406.00631)
 2024-05-28|Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba|Z. Yang and P. Yan|[Code](https://github.com/RPIDIAL/BI-Mamba)|[Arxiv](https://arxiv.org/abs/2405.18533)
 2024-05-27|Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba|J. Huang and G. Yang|None|[Arxiv](https://arxiv.org/abs/2405.17659)
 2024-05-23|EHRMamba: Towards Generalizable and Scalable Foundation Models for Electronic Health Records|A. Fallahpour and A. Krishnan|[Code](https://github.com/VectorInstitute/odyssey)|[Arxiv](https://arxiv.org/abs/2405.14567)
