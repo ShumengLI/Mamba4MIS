@@ -47,7 +47,9 @@ Date|Title|The First and Last Authors|Code|Reference
 
 Date|Title|The First and Last Authors|Code|Reference
 -|-|-|-|-
+2024-06-27|MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion|J. Zou and J. Qin|None|[Arxiv](https://arxiv.org/abs/2406.18950)
 2024-06-22|Soft Masked Mamba Diffusion Model for CT to MRI Conversion|Z. Wang and Z. Zhang|[Code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)|[Arxiv](https://arxiv.org/abs/2406.15910)
+2024-06-14|ECGMamba: Towards Efficient ECG Classification with BiSSM|Y. Qiang and J. Dou|None|[Arxiv](https://arxiv.org/abs/2406.10098)
 2024-06-12|On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models|H. S. Malik and F. S. Khan|[Code](https://github.com/HashmatShadab/Robustness-of-Volumetric-Medical-Segmentation-Models)|[Arxiv](https://arxiv.org/abs/2406.08486)
 2024-06-02|MGI: Multimodal Contrastive pre-training of Genomic and Medical Imaging|J. Zhou and Y. Jin|Code|[Arxiv](https://arxiv.org/abs/2406.00631)
 2024-05-28|Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba|Z. Yang and P. Yan|[Code](https://github.com/RPIDIAL/BI-Mamba)|[Arxiv](https://arxiv.org/abs/2405.18533)
