@@ -10,7 +10,7 @@
 
 Date|Title|The First and Last Authors|Code|Reference
 -|-|-|-|-
-1024-07-01|xLSTM-UNet can be an Effective 2D & 3D Medical Image Segmentation Backbone with Vision-LSTM (ViL) better than its Mamba Counterpart|T. Chen, and Z. Li|[Code](https://tianrun-chen.github.io/xLSTM-UNet/)|[Arxiv](https://arxiv.org/abs/2407.01530)
+2024-07-01|xLSTM-UNet can be an Effective 2D & 3D Medical Image Segmentation Backbone with Vision-LSTM (ViL) better than its Mamba Counterpart|T. Chen and Z. Li|[Code](https://tianrun-chen.github.io/xLSTM-UNet/)|[Arxiv](https://arxiv.org/abs/2407.01530)
 2024-06-10|MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba|Z. Ji|[Code](https://github.com/PixDeep/MHS-VM)|[Arxiv](https://arxiv.org/abs/2406.05786)
 2024-06-09|Convolution and Attention-Free Mamba-based Cardiac Image Segmentation|A. Khan and G. Slabaugh|None|[Arxiv](https://arxiv.org/abs/2406.05786)
 2024-06-09|Vision Mamba: Cutting-Edge Classification of Alzheimer's Disease with 3D MRI Scans|Muthukumar K A and P. Ranjan|None|[Arxiv](https://arxiv.org/abs/2406.05757)
@@ -47,7 +47,7 @@ Date|Title|The First and Last Authors|Code|Reference
 
 Date|Title|The First and Last Authors|Code|Reference
 -|-|-|-|-
-2024-06-22|Soft Masked Mamba Diffusion Model for CT to MRI Conversion|Z. Wang, and Z. Zhang|[Code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)|[Arxiv](https://arxiv.org/abs/2406.15910)
+2024-06-22|Soft Masked Mamba Diffusion Model for CT to MRI Conversion|Z. Wang and Z. Zhang|[Code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)|[Arxiv](https://arxiv.org/abs/2406.15910)
 2024-06-12|On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models|H. S. Malik and F. S. Khan|[Code](https://github.com/HashmatShadab/Robustness-of-Volumetric-Medical-Segmentation-Models)|[Arxiv](https://arxiv.org/abs/2406.08486)
 2024-06-02|MGI: Multimodal Contrastive pre-training of Genomic and Medical Imaging|J. Zhou and Y. Jin|Code|[Arxiv](https://arxiv.org/abs/2406.00631)
 2024-05-28|Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba|Z. Yang and P. Yan|[Code](https://github.com/RPIDIAL/BI-Mamba)|[Arxiv](https://arxiv.org/abs/2405.18533)
