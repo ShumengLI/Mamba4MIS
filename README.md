@@ -46,6 +46,7 @@ Date|Title|The First and Last Authors|Code|Reference
 
 Date|Title|The First and Last Authors|Code|Reference
 -|-|-|-|-
+2024-07-04|Vision Mamba for Classification of Breast Ultrasound Images|A. N.-Sarvi and H. Rivaz|None|[Arxiv](https://arxiv.org/abs/2407.03552)
 2024-06-27|MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion|J. Zou and J. Qin|None|[Arxiv](https://arxiv.org/abs/2406.18950)
 2024-06-22|Soft Masked Mamba Diffusion Model for CT to MRI Conversion|Z. Wang and Z. Zhang|[Code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)|[Arxiv](https://arxiv.org/abs/2406.15910)
 2024-06-14|ECGMamba: Towards Efficient ECG Classification with BiSSM|Y. Qiang and J. Dou|None|[Arxiv](https://arxiv.org/abs/2406.10098)
