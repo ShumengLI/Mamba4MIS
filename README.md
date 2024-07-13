@@ -10,6 +10,7 @@
 
 Date|Title|The First and Last Authors|Code|Reference
 -|-|-|-|-
+2024-07-11|SliceMamba for Medical Image Segmentation|C. Fan and X. Jia|None|[Arxiv](https://arxiv.org/abs/2407.08481)
 2024-07-01|xLSTM-UNet can be an Effective 2D & 3D Medical Image Segmentation Backbone with Vision-LSTM (ViL) better than its Mamba Counterpart|T. Chen and Z. Li|[Code](https://tianrun-chen.github.io/xLSTM-UNet/)|[Arxiv](https://arxiv.org/abs/2407.01530)
 2024-06-10|MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba|Z. Ji|[Code](https://github.com/PixDeep/MHS-VM)|[Arxiv](https://arxiv.org/abs/2406.05786)
 2024-06-09|Convolution and Attention-Free Mamba-based Cardiac Image Segmentation|A. Khan and G. Slabaugh|None|[Arxiv](https://arxiv.org/abs/2406.05786)
@@ -46,6 +47,9 @@ Date|Title|The First and Last Authors|Code|Reference
 
 Date|Title|The First and Last Authors|Code|Reference
 -|-|-|-|-
+2024-07-11|SR-Mamba: Effective Surgical Phase Recognition with State Space Model|R. Cao and Y. Liu|[Code](https://github.com/rcao-hk/SR-Mamba)|[Arxiv](https://arxiv.org/abs/2407.08333)
+2024-07-08|Self-Prior Guided Mamba-UNet Networks for Medical Image Super-Resolution|Z. Ji and S. Ruan|None|[Arxiv](https://arxiv.org/abs/2407.05993)
+2024-07-08|Deform-Mamba Network for MRI Super-Resolution|Z. Ji and S. Ruan|None|[Arxiv](https://arxiv.org/abs/2407.05969)
 2024-07-04|Vision Mamba for Classification of Breast Ultrasound Images|A. N.-Sarvi and H. Rivaz|None|[Arxiv](https://arxiv.org/abs/2407.03552)
 2024-06-27|MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion|J. Zou and J. Qin|None|[Arxiv](https://arxiv.org/abs/2406.18950)
 2024-06-22|Soft Masked Mamba Diffusion Model for CT to MRI Conversion|Z. Wang and Z. Zhang|[Code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)|[Arxiv](https://arxiv.org/abs/2406.15910)
